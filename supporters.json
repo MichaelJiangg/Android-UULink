@@ -1,0 +1,71 @@
+{
+  "sample": true,
+  "supporters": [
+    {
+      "id": "阿泽",
+      "payments": [
+        {
+          "date": "2026-10-12",
+          "channel": "wechat"
+        },
+        {
+          "date": "2026-10-18",
+          "channel": "wechat"
+        },
+        {
+          "date": "2026-10-24",
+          "channel": "alipay"
+        }
+      ]
+    },
+    {
+      "id": "小满",
+      "payments": [
+        {
+          "date": "2026-10-16",
+          "channel": "wechat"
+        }
+      ]
+    },
+    {
+      "id": "南桥",
+      "payments": [
+        {
+          "date": "2026-10-21",
+          "channel": "alipay"
+        }
+      ]
+    },
+    {
+      "id": "跟拍旅拍📷",
+      "android": true,
+      "payments": [
+        {
+          "date": "2026-10-26",
+          "channel": "source"
+        }
+      ]
+    }
+  ],
+  "anonymous": {
+    "payments": [
+      {
+        "date": "2026-10-22",
+        "channel": "alipay"
+      }
+    ]
+  },
+  "rules": {
+    "cup_counting": "one_payment_one_cup",
+    "tiers": [
+      {
+        "cups": 3,
+        "title": "常客"
+      },
+      {
+        "cups": 8,
+        "title": "咖啡官"
+      }
+    ]
+  }
+}
