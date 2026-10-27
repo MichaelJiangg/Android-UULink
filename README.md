@@ -6,7 +6,7 @@
 
 **把 U30Air 的电量、充电状态和网络速率，放到安卓桌面。**
 
-[下载 v1.6.12 测试 APK](https://github.com/MichaelJiangg/wifibattery-android/releases/download/v1.6.12/WiFiBattery-Android-1.6.12-202610271440-test.apk) · [v1.6.12 · OpenWrt 登录修复与密码明文](https://github.com/MichaelJiangg/wifibattery-android/releases/tag/v1.6.12)
+[下载 v1.6.12 测试 APK](https://github.com/MichaelJiangg/Android-UULink/releases/download/v1.6.12/WiFiBattery-Android-1.6.12-202610271440-test.apk) · [v1.6.12 · OpenWrt 登录修复与密码明文](https://github.com/MichaelJiangg/Android-UULink/releases/tag/v1.6.12)
 
 适用于 Android 8.0 及以上，支持 U30Air 原厂系统与 MU300 OpenWrt。**v1.6.12 为公开测试版，真机界面效果仍待确认。** 本仓库提供产品说明与安装包，不提供应用源码。
 
@@ -68,6 +68,6 @@ v1.6.12 Release 仅提供 APK 安装附件，SHA256 摘要写在版本说明中�
 
 可在「更多 → 使用情况统计」关闭；关闭后停止新增使用记录，先前已报送的数据不会自动删除，SDK 原有待发送队列是否清除未证实。完整说明可在 App 内离线查看。
 
-可在本仓库 [Issues](https://github.com/MichaelJiangg/wifibattery-android/issues) 反馈。建议附上手机型号、Android 版本、U30Air 固件版本及问题现象，不要公开设备密码等敏感信息。
+可在本仓库 [Issues](https://github.com/MichaelJiangg/Android-UULink/issues) 反馈。建议附上手机型号、Android 版本、U30Air 固件版本及问题现象，不要公开设备密码等敏感信息。
 
 这是独立制作的设备状态工具，非中兴官方应用。
