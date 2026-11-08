@@ -6,11 +6,11 @@
 
 **把随身 Wi-Fi 的电量、充电状态、网络速率和流量，放到安卓桌面。**
 
-[下载 v1.6.28 测试 APK](https://github.com/MichaelJiangg/Android-UULink/releases/download/v1.6.28/UULinker-Android-1.6.28-test.apk) · [v1.6.28 · 新增原厂接入方式](https://github.com/MichaelJiangg/Android-UULink/releases/tag/v1.6.28)
+[下载 v1.6.33 测试 APK](https://github.com/MichaelJiangg/Android-UULink/releases/download/v1.6.33/UULinker-Android-1.6.33-test.apk) · [v1.6.33 · Hero 组件排版优化](https://github.com/MichaelJiangg/Android-UULink/releases/tag/v1.6.33)
 
-适用于 Android 8.0 及以上。支持三种接入：**原厂系统（免密 goform 只读）、UFI 高级后台、OpenWrt 设备端插件**。**v1.6.28 为公开测试版，桌面组件的真机视觉仍待补充确认。** 本仓库只提供产品说明与安装包，不提供应用源码。
+适用于 Android 8.0 及以上。支持三种接入：**原厂系统（免密 goform 只读）、UFI 高级后台、OpenWrt 设备端插件**。**v1.6.33 为公开测试版，桌面组件的真机视觉仍待补充确认。** 本仓库只提供产品说明与安装包，不提供应用源码。
 
-本版重点新增原厂系统接入方式：设备默认 `192.168.0.1`，无需填写地址，可直接免密读取基础状态，仅在设备要求登录时输入后台密码；连接设置同时保留 OpenWrt 与 UFI 高级后台。另含四款桌面组件、组件预览页、产品用户群入口、无分割线纯间距界面，以及应用更名为 UULinker。
+本版重点优化 Hero 桌面组件排版：曜石黑／清浅白机型信息移到首行运营商与信号右侧，刷新与下行／上行底边对齐，内容垂直居中，保留运营商 logo、连接状态胶囊与无分割线设计；组件页预览同步。此前版本已提供原厂系统（免密 goform 只读，默认 `192.168.0.1`）、UFI 高级后台、OpenWrt 三种接入，以及四款桌面组件、产品用户群入口与应用更名 UULinker。
 
 ## WHY · 为什么会有这个产品？
 
@@ -45,9 +45,9 @@
 
 首次打开需阅读并同意用户协议与隐私政策；统计选择在「设置 → 隐私政策」内单独管理。与旧版签名一致，可覆盖安装；若读取失败，请附上「连接设置」返回的具体错误。
 
-v1.6.28 Release 仅提供 APK 安装附件，SHA256 摘要写在版本说明中，可用于核对安装包完整性。旧版附件保留。
+v1.6.33 Release 仅提供 APK 安装附件，SHA256 摘要写在版本说明中，可用于核对安装包完整性。旧版附件保留。
 
-## v1.6.28 测试范围与已知限制
+## v1.6.33 测试范围与已知限制
 
 | 项目 | 当前情况 |
 |---|---|
